@@ -1,3 +1,4 @@
+Part A //for completely repo 
 On github
 1 .create a new repo
 on system
@@ -5,7 +6,7 @@ on system
 3. Add the requied files and folders to it.
 4. cd <foldername>
 5. git init
-6 git add.(. for all files)/ git add <filename>
+6 git add.(. for all files)
 7. git commit
 8. add a comment and then ctrl+x
 9. Type Y(yes) and then enter.
@@ -13,3 +14,12 @@ on system
 11.git push -u origin master
 12. Enter your username and password when prompted
 13. Done!! :)
+
+Part B // add new changes to the Part A
+1. Add the fils and folders to local repo
+2. cd <foldername>
+3.git add <filenames>
+4.follow steps 7-9 of PART A
+Now, since you already have a repo created through Part A you don't have to add orignin ... again.
+5.Follow steps 11-13 of PART A.
+
