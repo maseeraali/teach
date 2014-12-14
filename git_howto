@@ -15,6 +15,9 @@ on system
 12. Enter your username and password when prompted
 13. Done!! :)
 
+Once the initial repo is done and uploaded one might make new changes locally. These changes will not be reflected online.
+To syn the online and the local follow PART B.
+
 Part B // add new changes to the Part A
 1. Add the fils and folders to local repo
 2. cd <foldername>
@@ -23,6 +26,7 @@ Part B // add new changes to the Part A
 Now, since you already have a repo created through Part A you don't have to add orignin ... again.
 5.Follow steps 11-13 of PART A.
 
+One can make changes online as well (click on the edit icon, edit the doc and then hit the commit changes button at the button) but they will not be reflected in the locla repo.PART C is a followup of that.
 PART C // updating local repo
 1. cd <foldername>
 2. git pull origin master.
