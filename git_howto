@@ -1,0 +1,15 @@
+On github
+1 .create a new repo
+on system
+2. create a floder woth same name as step 1
+3. Add the requied files and folders to it.
+4. cd <foldername>
+5. git init
+6 git add.(. for all files)/ git add <filename>
+7. git commit
+8. add a comment and then ctrl+x
+9. Type Y(yes) and then enter.
+10. git remote add origin https://github.com/<your username>/<repo name>
+11.git push -u origin master
+12. Enter your username and password when prompted
+13. Done!! :)
