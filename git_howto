@@ -23,3 +23,7 @@ Part B // add new changes to the Part A
 Now, since you already have a repo created through Part A you don't have to add orignin ... again.
 5.Follow steps 11-13 of PART A.
 
+PART C // updating local repo
+1. cd <foldername>
+2. git pull origin master.
+3.Done.
