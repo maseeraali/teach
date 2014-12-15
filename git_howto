@@ -1,19 +1,18 @@
 Part A //for completely new repo 
-On github
-1 .create a new repo
 on system
-2. create a floder woth same name as step 1
+2. Create a folder that you wish to upload
 3. Add the requied files and folders to it.
 4. cd <foldername>
 5. git init
-6 git add.(. for all files)
+6 git add .(. for all files)
 7. git commit
 8. add a comment and then ctrl+x
 9. Type Y(yes) and then enter.
-10. git remote add origin https://github.com/<your username>/<repo name>
-11.git push -u origin master
-12. Enter your username and password when prompted
-13. Done!! :)
+10. Now go to git github.com and create a new repo with the same name as in step1.
+11. git remote add origin https://github.com/<your username>/<repo name>
+12. git push -u origin master
+13. Enter your username and password when prompted
+14. Done!! :)
 
 Once the initial repo is done and uploaded one might make new changes locally. These changes will not be reflected online.
 To syn the online and the local follow PART B.
@@ -24,7 +23,7 @@ Part B // add new changes to the Part A
 3.git add <filenames>
 4.follow steps 7-9 of PART A
 Now, since you already have a repo created through Part A you don't have to add orignin ... again.
-5.Follow steps 11-13 of PART A.
+5.Follow steps 12-14 of PART A.
 
 One can make changes online as well (click on the edit icon, edit the doc and then hit the commit changes button at the button) but they will not be reflected in the locla repo.PART C is a followup of that.
 PART C // updating local repo
